@@ -1,0 +1,28 @@
+.red {
+    background-color: #ff5851;
+    min-height: 100vh;
+    height: 100%;
+
+}
+.white {
+
+background-color: whitesmoke;
+min-height: 100vh;
+height: 100%;
+}
+
+.hello {
+    margin-top: 45%;
+    font-size: 8em;
+}
+
+.contact {
+    color: black;
+    font-weight: bold;
+    position: relative;
+}
+.projects {
+    color: black;
+    font-weight: bold;
+    position: relative;
+}

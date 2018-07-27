@@ -1,0 +1,11 @@
+.link {
+    color: black;
+    font-weight: bold;
+  
+    font-size: 4em;
+}
+.home {
+    color: black;
+    font-weight: bold;
+    position: relative;
+}

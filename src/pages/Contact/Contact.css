@@ -1,0 +1,18 @@
+.red {
+    background-color: #ff5851;
+    min-height: 100vh;
+    height: 100%;
+
+}
+.white {
+
+background-color: whitesmoke;
+min-height: 100vh;
+height: 100%;
+}
+.bio {
+    color: black;
+    font-weight: bold;
+  
+    font-size: 4em;
+}
